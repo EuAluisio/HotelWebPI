@@ -1,0 +1,8 @@
+br\com\hotel\model\Reserva.class
+br\com\hotel\model\Quarto.class
+br\com\hotel\main\Main.class
+br\com\hotel\repository\ReservaRepository.class
+br\com\hotel\repository\ReservaRepositoryMemoria.class
+br\com\hotel\model\Cliente.class
+com\mycompany\hotelwebpi\HotelWebPI.class
+br\com\hotel\service\ReservaService.class
